@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Welcome</title>
+    <link rel="stylesheet" href="load.css">
+    <link rel="icon" type="image/x-icon" href="skill.ico" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="loader">Skill Improver</div>
+    
+    <div class="popup">
+      <button id="close">&times;</button>
+      <h2>Skill Improver ©</h2>
+      <p>
+        Skill Improver, New Version available<i><b> 0.0.1.6</b></i
+        ><br />
+        <b>What's new</b>,<br /><i
+          >&nbsp;&nbsp;&nbsp;&nbsp;New Ui,Some bug's fixes, more reliable,
+          message improvement and your records are easily saved in text file...
+          &nbsp;<b>Released on 26 January 2023</b></i
+        >
+      </p>
+      <a href="#">Let's Go</a>
+    </div>
+    <!--Script-->
+    <script>
+      window.addEventListener("load", function () {
+        setTimeout(function open(event) {
+          document.querySelector(".popup").style.display = "block";
+        }, 4000);
+      });
+      document.querySelector("#close").addEventListener("click", function () {
+        document.querySelector(".popup").style.display = "none";
+      });
+    </script>
+  </body>
+</html>
