@@ -1,8 +1,8 @@
-## Skill Improver
-# Speed Your Typing Speed With Skill Improver.
+# Skill Improver
+## Speed Your Typing Speed With Skill Improver.
 
-# Developer and Owner: Sarwan Yadav
-# Organisation: KeysToMake
+### Developer and Owner: Sarwan Yadav
+### Organisation: KeysToMake
 
 -----------------------------------------------------------------------------
 Recommended System Requirements:                                            -
