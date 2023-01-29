@@ -1,8 +1,7 @@
 # Skill Improver
 ## Speed Your Typing Speed With Skill Improver.
 
-![skill](https://user-images.githubusercontent.com/92580571/215346338-7d52151f-8567-453a-878e-e29d718d7355.jpg)![ellow 2](https://user-images.githubusercontent.com/92580571/215346354-4c1c1c2d-3346-4554-a4bd-8cf19ef02ce3.jpg)
-
+![skill](https://user-images.githubusercontent.com/92580571/215346338-7d52151f-8567-453a-878e-e29d718d7355.jpg)
 
 
 ### Developer and Owner: Sarwan Yadav
@@ -18,4 +17,7 @@
 -----------------------------------------------------------------------------
 
 Thanks for viewing my project... 
+
+![ellow](https://user-images.githubusercontent.com/92580571/215346388-f1a96f4e-8afb-47c6-8672-a15fac262282.png)
+
 ### Sarwan
